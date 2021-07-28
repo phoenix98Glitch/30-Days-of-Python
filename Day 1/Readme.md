@@ -1,4 +1,6 @@
-# Logging Day 1
+# Logging Day 1 
+
+[Date: 28th July, 2021]
 
 ## From Introduction to Data Science by University of Michigan :
 
